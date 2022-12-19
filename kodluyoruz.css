@@ -1,0 +1,21 @@
+h1{
+    color:#850000; font-style: italic;
+}
+a{
+    color:#DC0000; font-style: bold;
+}
+h2{
+    color:#850000;font-style: bold
+}
+p{
+    color:gray
+}
+.text-red{
+    color:white;
+}
+body{
+    background-color:black;
+}
+img{
+    width:420px; height: 450px;;
+}
